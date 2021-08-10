@@ -1,0 +1,2 @@
+# CosmicCore
+LobbyCore PocketMine-MP
