@@ -1,0 +1,5 @@
+name: CosmicCore
+version: 1.0.0
+main: LobbyCore\Core
+api: 3.0.0
+author: iWaltyMC
